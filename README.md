@@ -1,7 +1,7 @@
 # LET'S KWOOWK!!!
 #### A recipe website
 ## Description
-This is a single page website named "LET'S KWOOWK!!!". The website is made by a single html file which is styled by a css file. 
+This is a single page website named "LET'S KWOOWK!!!". The website is made by a single html file which is styled by a css file. It works by using ingriedients to search for a combination of meals.
 ## Live link
 https://stellamargy.github.io/Phase-1-Project/
 
